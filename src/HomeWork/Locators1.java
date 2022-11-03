@@ -30,7 +30,7 @@ public class Locators1 {
         Thread.sleep(2000);
         driver.findElement(By.name("firstname")).sendKeys("Nes");
         driver.findElement(By.name("lastname")).sendKeys("Meh");
-        driver.findElement(By.xpath("//img[@class='_8idr img']")).click();
+        driver.findElement(By.className("_8idr.img")).click();
         driver.quit();
 
     }

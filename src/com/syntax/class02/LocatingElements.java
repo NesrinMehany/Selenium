@@ -15,11 +15,11 @@ public class LocatingElements {
 // create a WebDriver instance
         WebDriver driver= new ChromeDriver();
 //        goto fb.com
-        driver.get("https://www.facebook.com");
+        driver.get("https://www.facebook.com/");
 //        maximize the window
-                driver.manage().window().maximize();
+        driver.manage().window().maximize();
 //        enter the Username in the TextBOX
-        //         1.locate the element and send the keys
+            //         1.locate the element and send the keys
         driver.findElement(By.id("email")).sendKeys("abracadbara");
 //        enter the password in the TextBox
         driver.findElement(By.name("pass")).sendKeys("waow12345678");
