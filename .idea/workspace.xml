@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a526cc56-370c-4731-bb35-9e5b89be6813" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Notes/Class01" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class05/HomeWrok.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class05/Homework2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class05/mutlipleSelectDropDwon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class06/HomewrokC6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork/Locators1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork/Locators1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class05/DropDownDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class05/DropDownDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,12 +47,16 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Mina\Syntax WorkSpace\SeleniumBasics\src" />
+      <recent name="C:\Users\Mina\Syntax WorkSpace\SeleniumBasics\src\com\syntax\class05" />
+      <recent name="C:\Users\Mina\Syntax WorkSpace\SeleniumBasics" />
+      <recent name="C:\Users\Mina\Syntax WorkSpace\SeleniumBasics\src\ReviewClass" />
+      <recent name="C:\Users\Mina\Syntax WorkSpace\SeleniumBasics\src\com\syntax\class04" />
+      <recent name="C:\Users\Mina\Syntax WorkSpace\SeleniumBasics\src\com\syntax\class03" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CheckBoxDemo">
-    <configuration name="CheckBoxDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class05.CheckBoxDemo" />
+  <component name="RunManager" selected="Application.HomewrokC6">
+    <configuration name="HomeWrok" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class05.HomeWrok" />
       <module name="Selenium" />
       <extension name="coverage">
         <pattern>
@@ -59,21 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CssSelector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class04.CssSelector" />
-      <module name="Selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.syntax.class04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GetAllLinks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class05.GetAllLinks" />
+    <configuration name="Homework2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class05.Homework2" />
       <module name="Selenium" />
       <extension name="coverage">
         <pattern>
@@ -85,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InvokeChrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.MyLib.InvokeChrome" />
+    <configuration name="HomewrokC6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class06.HomewrokC6" />
       <module name="Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.MyLib.*" />
+          <option name="PATTERN" value="com.syntax.class06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +94,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XpathHW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork.XpathHW" />
+    <configuration name="com.syntax.class06.practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class06.practice" />
       <module name="Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork.*" />
+          <option name="PATTERN" value="com.syntax.class06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class05.practice" />
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntax.class05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CheckBoxDemo" />
-        <item itemvalue="Application.GetAllLinks" />
-        <item itemvalue="Application.CssSelector" />
-        <item itemvalue="Application.InvokeChrome" />
-        <item itemvalue="Application.XpathHW" />
+        <item itemvalue="Application.HomewrokC6" />
+        <item itemvalue="Application.com.syntax.class06.practice" />
+        <item itemvalue="Application.practice" />
+        <item itemvalue="Application.Homework2" />
+        <item itemvalue="Application.HomeWrok" />
       </list>
     </recent_temporary>
   </component>

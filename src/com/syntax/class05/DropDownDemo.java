@@ -1,4 +1,4 @@
-package com.syntax.class05;
+    package com.syntax.class05;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -6,8 +6,10 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.Select;
 
+import java.util.List;
 
-public class DropDownDemo {
+
+    public class DropDownDemo {
     public static void main(String[] args) throws InterruptedException {
         //        set the path to the driver to link it with our class    on mac u dont need .exe on windows u need .exe
         System.setProperty("webdriver.chrome.driver","Drivers/chromedriver.exe");
@@ -34,6 +36,21 @@ public class DropDownDemo {
         select.selectByValue("Sunday");
 
 
+//        get all the options available in the dropdown
 
+        List<WebElement> options = select.getOptions();
+
+//        traverse through the options
+        for(int i=0;i<options.size();i++){
+
+            WebElement option = options.get(i);
+            String text = option.getText();
+            if(text.equalsIgnoreCase("Friday")){
+                select.selectByIndex(i);
+            }
+
+        }
     }
 }
+
+
