@@ -2,13 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a526cc56-370c-4731-bb35-9e5b89be6813" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Notes/Class01" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class05/HomeWrok.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class05/Homework2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class05/mutlipleSelectDropDwon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class06/HomewrokC6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pages/HRMSLoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pages/loginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pages/loginPageWithPageFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewClass/class01/FacebookHomwWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewClass/class01/HomeWork2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewClass/class02/PracticeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewClass/class02/checkBoxes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewClass/class02/dropDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewClass/class02/ebayDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewClass/class03/Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewClass/class03/frames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewClass/class03/implcitwait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewClass/class03/waits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewClass/class03/windowHandles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewClass/class04/waitReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewClass/class04/wetable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/LoginPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/loginPageTestWithPageFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Utils/CommonMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Utils/ConfigFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Utils/Meth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Utils/SetDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/MyLib/Lib.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class07/ImplicitWaits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class08/HW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class08/waitsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class09/DynamicReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class09/DynamicTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class09/HW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class10/HW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class10/calander.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class10/calanderPagination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class11/KeyUSage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class11/actionClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class11/actionClassExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class11/dragAndDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class11/screenShot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class12/jsExecutorHighlight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class12/jsExecutorScroll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class12/uploadFile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class05/DropDownDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class05/DropDownDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReviewClass/FacebookHomwWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork/FacebookHomwWork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReviewClass/HomeWork2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork/HomeWork2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReviewClass/class02/RadioButtons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClass/class02/RadioButtons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/MyLib/InvokeChrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class07/windowHandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class07/windowHandle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,8 +79,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Mina/Syntax WorkSpace/SeleniumBasics",
-    "project.structure.last.edited": "Project",
+    "last_opened_file_path": "C:/Users/Mina/Syntax WorkSpace/SeleniumBasics/src/Utils",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "terminal"
@@ -47,20 +88,20 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Mina\Syntax WorkSpace\SeleniumBasics\src\com\syntax\class05" />
-      <recent name="C:\Users\Mina\Syntax WorkSpace\SeleniumBasics" />
-      <recent name="C:\Users\Mina\Syntax WorkSpace\SeleniumBasics\src\ReviewClass" />
-      <recent name="C:\Users\Mina\Syntax WorkSpace\SeleniumBasics\src\com\syntax\class04" />
-      <recent name="C:\Users\Mina\Syntax WorkSpace\SeleniumBasics\src\com\syntax\class03" />
+      <recent name="C:\Users\Mina\Syntax WorkSpace\SeleniumBasics\src\ReviewClass\class04" />
+      <recent name="C:\Users\Mina\Syntax WorkSpace\SeleniumBasics\src\ReviewClass\class03" />
+      <recent name="C:\Users\Mina\Syntax WorkSpace\SeleniumBasics\src\ReviewClass\class02" />
+      <recent name="C:\Users\Mina\Syntax WorkSpace\SeleniumBasics\src\ReviewClass\class01" />
+      <recent name="C:\Users\Mina\Syntax WorkSpace\SeleniumBasics\src\com\syntax\class10" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HomewrokC6">
-    <configuration name="HomeWrok" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class05.HomeWrok" />
+  <component name="RunManager" selected="Application.LoginPageTest">
+    <configuration name="HW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class08.HW" />
       <module name="Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class05.*" />
+          <option name="PATTERN" value="com.syntax.class08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Homework2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class05.Homework2" />
+    <configuration name="HW2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class09.HW2" />
       <module name="Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class05.*" />
+          <option name="PATTERN" value="com.syntax.class09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomewrokC6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class06.HomewrokC6" />
+    <configuration name="LoginPageTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.LoginPageTest" />
       <module name="Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class06.*" />
+          <option name="PATTERN" value="Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.syntax.class06.practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class06.practice" />
+    <configuration name="com.syntax.class10.HW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class10.HW" />
       <module name="Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class06.*" />
+          <option name="PATTERN" value="com.syntax.class10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +149,11 @@
       </method>
     </configuration>
     <configuration name="practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class05.practice" />
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class09.practice" />
       <module name="Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class05.*" />
+          <option name="PATTERN" value="com.syntax.class09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HomewrokC6" />
-        <item itemvalue="Application.com.syntax.class06.practice" />
+        <item itemvalue="Application.LoginPageTest" />
+        <item itemvalue="Application.com.syntax.class10.HW" />
         <item itemvalue="Application.practice" />
-        <item itemvalue="Application.Homework2" />
-        <item itemvalue="Application.HomeWrok" />
+        <item itemvalue="Application.HW" />
+        <item itemvalue="Application.HW2" />
       </list>
     </recent_temporary>
   </component>
